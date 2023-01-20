@@ -3,7 +3,7 @@
 
 ### Problem Statement 
 
-Following recent debates on the use of the SAT and ACT tests in determining college readiness, the South Carolina State Board of Education is re-assessing its policy stance on the issue. Currently, the State does not require its highschoolers to sit for either the SAT or the ACT, but provides funding to enable 11th graders take either test for free. The State has hired me as a consultant to profer an answer to the question:
+Hypothetical Scenario: Following recent debates on the use of the SAT and ACT tests in determining college readiness, the South Carolina State Board of Education is re-assessing its policy stance on the issue. Currently, the State does not require its highschoolers to sit for either the SAT or the ACT, but provides funding to enable 11th graders take either test for free. The State has hired me as a consultant to profer an answer to the question:
 
 **Will making the SAT or ACT mandatory have any effect on the State's average test scores?**
 
