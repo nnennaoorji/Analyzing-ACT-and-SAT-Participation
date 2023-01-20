@@ -1,4 +1,4 @@
-# Project 2: Ames Housing Data and Kaggle Challenge
+# Analyzing ACT and SAT Participation by State Policy
 
 
 ### Problem Statement 
